@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "test": "deno test"
+    "test": "deno test --allow-env"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
